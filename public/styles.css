@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+  }
+  
+  input#result {
+    width: 80%;
+    font-size: 20px;
+    margin: 20px 0;
+  }
+  
+  .button-row {
+    margin: 10px 0;
+  }
+  
+  button {
+    width: 22%;
+    padding: 10px;
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
