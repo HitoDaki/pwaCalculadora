@@ -5,7 +5,7 @@ const urlsToCache = [
   'styles.css',
   'app.js',
   'manifest.json',
-  'icon.png' // Asegúrate de tener un icono en tu directorio si lo referencias
+  'icon.png'
 ];
 
 self.addEventListener('install', event => {
